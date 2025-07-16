@@ -38,8 +38,8 @@ code-editor/
 bash
 Copy
 Edit
-git clone https://github.com/your-username/code-editor.git
-cd code-editor
+**git clone** https://github.com/Snehalmahasagar/Ai_code_reveiwer.git
+**cd code-editor**
 2.** Setup the Backend**
 bash
 Copy
@@ -82,16 +82,16 @@ Learn best practices from AI feedback
 Quickly review code without manual walkthroughs
 
 
-**🧠 Powered By
+**🧠** Powered By**
 Gemini API
 
 React.js
 
 Express.js
 **
-🤝 Contributing
+🤝 **Contributing**
 Pull requests are welcome! If you have suggestions or want to improve the project, feel free to open an issue.
 
-📄 License
+📄** License**
 MIT License
 
